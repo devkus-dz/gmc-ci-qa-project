@@ -9,4 +9,9 @@ export default class Calculator {
   subtract(a, b) {
     return a - b;
   }
+
+  // Method to multiply numbers
+  multiply(a, b) {
+    return a * b;
+  }
 }
